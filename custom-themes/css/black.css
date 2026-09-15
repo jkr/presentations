@@ -6,43 +6,35 @@
 @font-face {
   font-family: "Nexus Sans";
   src: url("../fonts/NexusSansOT-Regular.otf"); }
-
 @font-face {
   font-family: "Nexus Sans";
   src: url("../fonts/NexusSansOT-Italic.otf");
   font-style: italic; }
-
 @font-face {
   font-family: "Nexus Sans";
   src: url("../fonts/NexusSansOT-Bold.otf");
   font-weight: bold; }
-
 @font-face {
   font-family: "Nexus Sans";
   src: url("../fonts/NexusSansOT-BoldItalic.otf");
   font-weight: bold;
   font-style: italic; }
-
 @font-face {
   font-family: "Scala Sans Pro";
   src: url("../fonts/ScalaSansPro-Regular.otf"); }
-
 @font-face {
   font-family: "Scala Sans Pro";
   src: url("../fonts/ScalaSansPro-Italic.otf");
   font-style: italic; }
-
 @font-face {
   font-family: "Scala Sans Pro";
   src: url("../fonts/ScalaSansPro-Bold.otf");
   font-weight: bold; }
-
 @font-face {
   font-family: "Scala Sans Pro";
   src: url("../fonts/ScalaSansPro-BoldItalic.otf");
   font-weight: bold;
   font-style: italic; }
-
 section.has-light-background, section.has-light-background h1, section.has-light-background h2, section.has-light-background h3, section.has-light-background h4, section.has-light-background h5, section.has-light-background h6 {
   color: #222; }
 
@@ -339,7 +331,6 @@ section.has-light-background, section.has-light-background h1, section.has-light
 @media print {
   .backgrounds {
     background-color: var(--r-background-color); } }
-
 i {
   font-style: italic; }
 
@@ -360,31 +351,42 @@ body {
 
 .reveal .title-slide h2:before {
   content: ""; }
-
 .reveal .title-slide h1.title {
   text-align: right; }
-
 .reveal .title-slide h2.author {
   margin-top: 0em;
   text-align: right;
   text-transform: lowercase;
   font-variant: small-caps; }
-
 .reveal .title-slide h2.year {
   padding-top: 0em;
   margin-top: -.5em;
   text-align: right; }
-
 .reveal .title-slide h2.lecture {
   margin-top: -.5em;
   padding-top: 0em;
   font-style: italic;
   text-transform: lowercase;
   text-align: right; }
+.reveal .title-slide .corner-circle {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 30%;
+  aspect-ratio: 1 / 1;
+  border: 3px solid #ffffff;
+  border-radius: 50%;
+  background-color: #a0a0a0;
+  box-sizing: border-box;
+  overflow: hidden; }
+.reveal .title-slide .corner-circle img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block; }
 
 .reveal h2 {
   font-weight: normal; }
-
 .reveal h3 {
   font-size: 120%;
   font-weight: normal;
