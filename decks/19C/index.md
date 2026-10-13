@@ -25,7 +25,7 @@
 ## George Eliot ##
 
 - [*Middlemarch* 1](eliot/eliot1.html)
-- [*Middlemarch* 2](eliot/eliot2.html)
+- [*Middlemarch* 2](eliot/eliot2a.html)
 - [*Middlemarch* 3](eliot/eliot3.html)
 - [*Middlemarch* 4](eliot/eliot4.html)
 - [*Middlemarch* 5](eliot/eliot5.html)
