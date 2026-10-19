@@ -26,7 +26,7 @@
 
 - [*Middlemarch* 1](eliot/eliot1.html)
 - [*Middlemarch* 2](eliot/eliot2a.html)
-- [*Middlemarch* 3](eliot/eliot3.html)
+- [*Middlemarch* 3](eliot/eliot3a.html)
 - [*Middlemarch* 4](eliot/eliot4.html)
 - [*Middlemarch* 5](eliot/eliot5.html)
 - [*Middlemarch* 6](eliot/eliot6.html)
