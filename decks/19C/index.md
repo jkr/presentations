@@ -30,6 +30,7 @@
 - [*Middlemarch* 4](eliot/eliot4.html)
 - [*Middlemarch* 6 (10/28)](eliot/eliot6b.html)
 - [*Middlemarch* 7 (11/2)](eliot/eliot7.html)
+- [*Middlemarch* 8 (11/4)](eliot/eliot8.html)
 
 ## George Gissing ##
 
