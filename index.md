@@ -1,2 +1,3 @@
 -   [Nineteenth-Century British Novel](/presentations/decks/19C/index.html)
 -   [Detective Fiction](/presentations/decks/detective_fiction/index.html)
+-   [NAVSA 2026](/presentations/decks/presentations/navsa2026.html)
