@@ -36,8 +36,7 @@
 
 - [*The Nether World* 1](gissing/gissing1.html)
 - [*The Nether World* 2](gissing/gissing2.html)
-- [*The Nether World* 3](gissing/gissing3.html)
-- [*The Nether World* 4](gissing/gissing4.html)
+- [*The Nether World* 3](gissing/gissing4.html)
 
 ## Thomas Hardy ##
 
